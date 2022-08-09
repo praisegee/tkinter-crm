@@ -18,7 +18,7 @@
 
 ##	TOYESE
 *User Dashboard*
-	-> avater img
+	-> avatar img
 	-> username & email
 	-> tabs [dashboard, account, settings, logout]
 	-> three boxs with dummy numbers
@@ -28,8 +28,8 @@
 *Database backend*
 	-> create tables for users, customers and products
 	-> save users to user's table
-	-> save products to products's table
-	-> save customers to customers's table
+	-> save products to product's table
+	-> save customers to customer's table
 	-> perform CRUD on product table
 
 	
